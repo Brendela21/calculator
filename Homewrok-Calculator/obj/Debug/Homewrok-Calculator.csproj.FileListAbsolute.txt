@@ -1,0 +1,10 @@
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\bin\Debug\Homewrok-Calculator.exe.config
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\bin\Debug\Homewrok-Calculator.exe
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\bin\Debug\Homewrok-Calculator.pdb
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\obj\Debug\Homewrok-Calculator.csprojAssemblyReference.cache
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\obj\Debug\Homewrok_Calculator.Calculator.resources
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\obj\Debug\Homewrok_Calculator.Properties.Resources.resources
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\obj\Debug\Homewrok-Calculator.csproj.GenerateResource.cache
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\obj\Debug\Homewrok-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\obj\Debug\Homewrok-Calculator.exe
+C:\Users\Lili\source\repos\Homewrok-Calculator\Homewrok-Calculator\obj\Debug\Homewrok-Calculator.pdb

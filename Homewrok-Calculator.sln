@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homewrok-Calculator", "Homewrok-Calculator\Homewrok-Calculator.csproj", "{8E437E57-E56E-4944-B9CE-35F6E4446747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E437E57-E56E-4944-B9CE-35F6E4446747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E437E57-E56E-4944-B9CE-35F6E4446747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E437E57-E56E-4944-B9CE-35F6E4446747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E437E57-E56E-4944-B9CE-35F6E4446747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB8B6378-29ED-488B-B8E7-4E58DB94A420}
+	EndGlobalSection
+EndGlobal
